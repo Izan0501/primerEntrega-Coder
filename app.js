@@ -22,12 +22,7 @@ const Welcome = () => {
             prompt(`Welcome ${name}, ${age} years old, enjoy your purchase
         Press accept to continue to the store`)
         }
-
-        
-
     }
-
-
 }
 
 Welcome();
